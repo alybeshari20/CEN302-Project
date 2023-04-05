@@ -22,20 +22,21 @@ The User has the ability to change his own profile and insert a profile picture.
 Agile development methodology will be used for this project.                                                                                                          Agile allows for incremental and iterative development, which is beneficial for e-learning applications as it allows for continuous feedback and improvements to be made as the project progresses.
 
 User requirements:
--User-friendly interface that is easy to navigate and use.
--Customizable user profiles for learners and instructors.
--Access to a wide range of learning resources, including videos, tutorials, etc.
--Ability to track progress and completion of courses.
--Connection to social media sites for sharing and working with other students.                                                                                        -Secure login and payment processing for purchasing courses.
--Multilingual assistance to provide worldwide accessibility.
--Compatibility with multiple devices and platforms.
+
+User-friendly interface that is easy to navigate and use.
+Customizable user profiles for learners and instructors.
+Access to a wide range of learning resources, including videos, tutorials, etc.
+Ability to track progress and completion of courses.
+Connection to social media sites for sharing and working with other students.                                                                                        Secure login and payment processing for purchasing courses.
+Multilingual assistance to provide worldwide accessibility.
+Compatibility with multiple devices and platforms.
 
 Application specifications:
 
--The application will be built using HTML, CSS, and JavaScript on the front-end and PHP on the back-end.
--Code Editor will be used the Visual Studio Code.
--Framework/Library we will be using Bootstrap, JQuery, FontAwesome for responsive design and ease of use.
--Database will be implemented using MySQL for efficient data management.
-- Learning resources will be organized in categories and stored in the MySQL database.
--Payment processing will be handled through a payment gateway, such as Paypal.
-- The application will be designed and modeled using StarUML to create diagrams, flowcharts, and UML models.
+The application will be built using HTML, CSS, and JavaScript on the front-end and PHP on the back-end.
+Code Editor will be used the Visual Studio Code.
+Framework/Library we will be using Bootstrap, JQuery, FontAwesome for responsive design and ease of use.
+Database will be implemented using MySQL for efficient data management.
+Learning resources will be organized in categories and stored in the MySQL database.
+Payment processing will be handled through a payment gateway, such as Paypal.
+The application will be designed and modeled using StarUML to create diagrams, flowcharts, and UML models.
