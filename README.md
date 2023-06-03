@@ -1,11 +1,10 @@
 # CEN302-Project
 Software Engineering Project / Graduation Project
 Member: Alesia Lybeshari
-Phase 1 and Phase 2
 An e-learning management system (LMS) named BrainBoost is a software application that enables the delivery, management, and tracking of online educational courses and training programs. E-Learning is the use of electronic technology to access educational content outside of a conventional school environment. In most circumstances, it refers to an entirely online course or program. Our project will be identified as an online teaching business, with features such as course administration, user progress monitoring, and tools for evaluating student performance and progress. The primary purpose of this project is to provide all age range, particularly students, with the chance to learn new skills through the materials they will be presented to. Key goals: high quality at zero cost, learning at any time and from any location, and studying several times. This web application will be developed using XAMPP, HTML, CSS, Bootstrap, JavaScript, PHP , SQL…
 
 Features/objectives 
-Ability to recall previously learned material: Subscribers can watch video courses as many times as they need and can come back and watch specific parts at any time.  Creative way to present lessons: This website offers a unique manner to give lectures, which will unquestionably improve instructors' teaching abilities.              Low cost: The platform is very cost efficient.                                                                                                                            
+Ability to recall previously learned material: Subscribers can watch video courses as many times as they need and can come back and watch specific parts at any time.  Creative way to present lessons: This website offers a unique manner to give lectures, which will unquestionably improve instructors' teaching abilities.              
 Specification:
 -Flexible web-based learning experience –
 -Ability to go through a guided curriculum or choose lessons on an as-needed basis 
@@ -27,7 +26,7 @@ User-friendly interface that is easy to navigate and use.
 Customizable user profiles for learners and instructors.
 Access to a wide range of learning resources, including videos, tutorials, etc.
 Ability to track progress and completion of courses.
-Connection to social media sites for sharing and working with other students.                                                                                        Secure login and payment processing for purchasing courses.
+Connection to social media sites for sharing and working with other students.                                                                                        Secure 
 Multilingual assistance to provide worldwide accessibility.
 Compatibility with multiple devices and platforms.
 
