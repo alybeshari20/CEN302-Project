@@ -1,0 +1,88 @@
+.navbar-brand {
+    font-family: "Ubuntu", sans-serif;
+    font-size: 2em;
+    font-weight: bold;
+    color: #fff;
+  }
+  
+  .custom-nav .custom-nav-item a {
+    color: #fff !important;
+  }
+  
+  .custom-nav-item:hover {
+    background-color: #dc3545;
+    border: solid #dc3545 1px;
+    border-radius: 10px;
+  }
+  
+  .remove-vid-marg {
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  .vid-parent {
+    position: relative;
+  }
+  video {
+    width: 100%;
+    height: 100%;
+  }
+  
+  .vid-content{
+    position: absolute;
+    z-index: 2;
+    top: 35%;
+    left: 35%;
+    text-align:center;
+    color: #fff;
+
+  }
+  
+  .bottom-banner {
+    color: #fff;
+    padding: 10px;
+  }
+  
+  .bottom-banner:first-child {
+    padding-left: 50px;
+  }
+  
+  a.social-hover:hover {
+    padding: 5px 100px;
+    text-decoration: none;
+    background-color: rgb(95, 93, 93);
+  }
+  
+  .stripe {
+    background: linear-gradient(240deg, #6a29186f, #365970af); /* New color gradient */
+    padding: 3rem;
+    height: 13rem;
+    margin-top: 4rem;
+    transform: rotate(10deg);
+    z-index: -5;
+  }
+  
+  
+  @media screen and (min-width: 0px) and (max-width: 700px) {
+    .my-content,
+    .txt-banner,
+    .stripe {
+      display: none;
+    } /* hide it on small screens */
+  
+    .vid-content {
+      top: 10%;
+      left: 60%;
+    }
+    .custom-nav .custom-nav-item a {
+      padding: 10px 20px;
+    
+    }
+  
+    .custom-nav-item:hover {
+      background-color: none;
+      border: none;
+      border-radius: none;
+    }
+  }
+  
