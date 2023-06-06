@@ -17,7 +17,7 @@ How it works:                                                                   
 The program will be split into two sections, with one administrator having complete control and the other user having restricted control.                              Admin and User, engage with the system in various ways.
 The Admin will be able to add, remove, and alter the details of the user, courses, and lessons. He may utilize this application to view sales reports as well as checking the payment status.
 
-The User has the ability to change his own profile and insert a profile picture. He will be able to acquire admin-published courses. The program allows the user to view the lessons of a paid course. The user can provide feedback. Feedback will help Admin to improve the quality of content or service. 
+The User has the ability to change his own profile and insert a profile picture. He will be able to acquire admin-published courses. The program allows the user to view the lessons of a selected course. The user can provide feedback. Feedback will help Admin to improve the quality of content or service. 
 Agile development methodology will be used for this project.                                                                                                          Agile allows for incremental and iterative development, which is beneficial for e-learning applications as it allows for continuous feedback and improvements to be made as the project progresses.
 
 User requirements:
@@ -37,5 +37,4 @@ Code Editor will be used the Visual Studio Code.
 Framework/Library we will be using Bootstrap, JQuery, FontAwesome for responsive design and ease of use.
 Database will be implemented using MySQL for efficient data management.
 Learning resources will be organized in categories and stored in the MySQL database.
-Payment processing will be handled through a payment gateway, such as Paypal.
 The application will be designed and modeled using StarUML to create diagrams, flowcharts, and UML models.
